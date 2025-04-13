@@ -1,0 +1,17 @@
+# Python (Django)
+backend/__pycache__/
+backend/*.pyc
+backend/env/
+backend/venv/
+*.sqlite3
+*.log
+
+# Node (Vite/React)
+frontend/node_modules
+frontend/dist/
+frontend/.vite/
+
+# Common
+.env
+.DS_Store
+*.log
